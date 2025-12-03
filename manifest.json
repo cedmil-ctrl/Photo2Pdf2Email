@@ -1,0 +1,16 @@
+{
+  "name": "Photo PDF Report",
+  "short_name": "PDF Report",
+  "description": "Create PDF reports from photos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4F46E5",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
